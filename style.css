@@ -1,0 +1,36 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background-image: url(joanna-kosinska-1_CMoFsPfso-unsplash.jpg);
+}
+.name{
+    padding-left: 600px;
+    padding-top: 100px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#Apply{
+    padding-left:200px;
+
+}
+.put input{
+    display: inline-block;
+   
+}
+#Email{
+     border-radius: 15px;
+     
+}
+.put button{
+    width: 50px;
+}
+#yashuuu{
+    margin-left: 600px;
+    margin-top: 20px;
+}
+h5{
+   padding-left: 50px; 
+}
